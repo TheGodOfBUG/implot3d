@@ -39,3 +39,8 @@ xcuserdata
 ## JetBrains IDE artifacts
 .idea
 cmake-build-*
+
+# Directories
+.vs/
+bin/
+bin-int/
